@@ -1,0 +1,39 @@
+.project_veranda {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.project_veranda_logo {
+	margin-top: 50px;
+	color: #333333;
+	font-size: 36px;
+	text-align: center;
+}
+
+.project_veranda_container {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.project_veranda_text {
+	width: 880px;
+	font-size: 20px;
+}
+
+.project_veranda_menu {
+	width: 1140px;
+	list-style-position: inside;
+}
+
+.project_veranda_li {
+	color: black;
+	font-size: 20px;
+}
+
+.project_veranda_text2 {
+	width: 1140px;
+	font-size: 20px;
+}

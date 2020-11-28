@@ -1,0 +1,41 @@
+.monolith {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.monolith_logo {
+	margin-top: 50px;
+	color: #333333;
+	font-size: 36px;
+}
+
+.monolith_container {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+.monolith_text {
+	width: 880px;
+	font-size: 20px;
+}
+
+
+.monolith_text2 {
+	color: #333333;
+	font-size: 36px;
+}
+
+.monolith_text3 {
+	font-size: 20px;
+}
+
+.monolith_menu {
+	list-style-position: inside;
+}
+
+.monolith_list {
+	color: black;
+}

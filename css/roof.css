@@ -1,0 +1,35 @@
+.roof {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.roof_logo {
+	margin-top: 50px;
+	color: #333333;
+	font-size: 36px;
+}
+
+.roof_container {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.roof_text {
+	font-size: 20px;
+}
+
+.roof_menu {
+	list-style-position: inside;
+}
+
+.roof_li {
+	color: black;
+	font-size: 20px;
+}
+
+.roof_logo2 {
+	color: #333333;
+	font-size: 36px;
+}

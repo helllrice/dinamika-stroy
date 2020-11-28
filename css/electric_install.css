@@ -1,0 +1,35 @@
+.electric_install {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.electric_install_logo {
+	margin-top: 50px;
+	color: #333333;
+	font-size: 36px;
+}
+
+.electric_install_container {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.electric_install_text {
+	width: 880px;
+	font-size: 20px;
+}
+
+.electric_install_list {
+ 	color: black;
+ }
+
+.electric_install_menu {
+	list-style-position: inside;
+}
+
+.electric_install_text2 {
+	width: 1140px;
+	font-size: 20px;
+}

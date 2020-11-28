@@ -1,0 +1,40 @@
+.foundation {
+	width: 1140px;
+	margin: 0 auto;
+}
+.foundation_logo {
+	margin-top: 50px;
+	color: #333333;
+	font-size: 36px;
+}
+
+.foundation_container {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.foundation_text {
+	width: 880px;
+}
+
+.foundation_logo2 {
+	margin-top: 10px;
+	color: #333333;
+	font-size: 28px;
+	width: 800px;
+}
+
+.foundation_text2 {
+	font-size: 20px;
+}
+ 
+.foudation_menu {
+	list-style-position: inside;
+}
+
+.foudation_list {
+	color: black;
+}
+ 

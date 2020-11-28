@@ -1,0 +1,43 @@
+.brickwork {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.brickwork_logo {
+	margin-top: 50px;
+	color: #333333;
+	font-size: 36px;
+}
+
+.brickwork_container {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+.brickwork_text {
+	width: 880px;
+	font-size: 20px;
+}
+
+.brickwork_menu {
+	list-style-position: inside;
+}
+
+.brickwork_li {
+	color: black;
+	font-size: 20px;
+}
+
+.brickwork_text2 {
+	width: 1140px;
+	font-size: 20px;
+}
+
+.brickwork_logo2 {
+	color: #333333;
+	font-size: 36px;
+
+}
